@@ -153,7 +153,7 @@ numpy
 
 # 👨‍💻 Author
 
-Developed by Your Name
+Developed by arivazhagan
 
 ---
 
