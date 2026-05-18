@@ -25,7 +25,8 @@ A Flask-based Deep Learning web application that detects whether an uploaded ima
 - HTML/CSS
 
 ---
-
+#Dataset
+https://www.kaggle.com/datasets/tristanzhang32/ai-generated-images-vs-real-images
 # 📂 Project Structure
 
 ```bash
